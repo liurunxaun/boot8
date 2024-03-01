@@ -1,0 +1,7 @@
+train: "/root/autodl-tmp/VOC12BootTT/train.txt"
+val: "/root/autodl-tmp/VOC12BootTT/val.txt"
+
+# Classes
+names:
+  0: coast
+  1: barrier

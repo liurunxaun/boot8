@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>20200829153758943.mp4_138.jpg</filename>
+	<path>/Users/ssadds/船赛/test/20200829153758943.mp4_138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barrier 0.79</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>964</xmin>
+			<ymin>306</ymin>
+			<xmax>991</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>barrier 0.71</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1366</xmin>
+			<ymin>330</ymin>
+			<xmax>1384</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

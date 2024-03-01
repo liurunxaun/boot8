@@ -1,0 +1,44 @@
+<annotation>
+	<folder>VOC12Train</folder>
+	<filename>20200829160701219_1.mp4_81.jpg</filename>
+	<source>
+		<database>The UAV autolanding</database>
+		<annotation>UAV AutoLanding</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>Liurunxuan</name>
+	</owner>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>this</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>620.4567901234567</xmin>
+			<ymin>947.4567901234567</ymin>
+			<xmax>1018.0</xmax>
+			<ymax>1079.0</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>coast</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0.7037037037037033</xmin>
+			<ymin>315.358024691358</ymin>
+			<xmax>961.1975308641975</xmax>
+			<ymax>407.9506172839506</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,226 @@
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_81.jpg 0,315,961,407,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_82.jpg 309,457,326,463,1 366,462,378,472,1 403,452,414,469,1 515,452,531,472,1 616,453,637,472,1 1088,449,1105,467,1 1141,452,1164,470,1 1211,453,1225,469,1 1225,449,1241,469,1 1285,449,1298,469,1 1367,449,1383,465,1 1417,449,1430,465,1 1461,454,1477,465,1 1692,452,1708,463,1 1729,453,1738,463,1 1788,453,1797,464,1 1830,453,1841,463,1 1779,453,1785,463,1 1771,455,1777,463,1 1747,456,1756,463,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_109.jpg 8,472,994,525,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_121.jpg 1,368,782,407,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_301.jpg 1410,456,1919,834,1 2,526,485,920,1 2,5,1918,880,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_92.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_70.jpg 1,188,1919,373,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_100.jpg 884,542,1141,625,1 6,512,1919,638,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_288.jpg 1,494,284,698,1 1414,374,1919,556,1 1307,390,1698,527,1 1276,363,1656,478,1 1,397,770,570,1 473,381,741,490,1 546,337,844,463,1 1027,372,1377,452,1 3,2,1899,466,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_90.jpg 962,304,974,320,1 1024,304,1036,317,1 1546,300,1564,325,1 1624,300,1641,321,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_15.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_184.jpg 3,230,1919,451,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_174.jpg 0,417,420,436,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_227.jpg 385,578,570,648,1 731,549,827,588,1 1507,541,1531,567,1 1687,544,1707,569,1 1,240,1918,571,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_2.mp4_18.jpg 966,294,1917,403,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_184.jpg 903,364,1126,457,1 687,431,699,441,1 805,419,815,436,1 827,420,836,432,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_118.jpg 1,355,1918,602,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_2.mp4_9.jpg 1576,272,1771,470,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_248.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_115.jpg 0,472,1056,571,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_245.jpg 0,3,1919,503,0 1104,425,1224,471,1 1397,429,1461,464,1 890,443,1052,477,1 1296,435,1325,461,1 1494,436,1526,457,1 468,448,582,490,1 641,443,755,484,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_267.jpg 1116,547,1138,564,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_241.jpg 213,537,256,557,1 1214,490,1317,522,1 1511,494,1556,526,1 1,78,1912,545,0
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_45.jpg 66,533,126,598,1 314,530,330,556,1 655,383,1919,512,0 1451,422,1468,435,1 1698,398,1711,414,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_71.jpg 1119,482,1179,516,1 1326,478,1383,507,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_67.jpg 768,501,853,538,1 909,500,956,526,1 1678,464,1699,486,1
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_5.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_9.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_13.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_15.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_17.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_26.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_29.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_31.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_35.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_36.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_41.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_44.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_50.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_57.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_65.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_68.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_70.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_75.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_80.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_86.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_92.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_96.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_100.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_112.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_121.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_127.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_139.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_142.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_143.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_145.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_146.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_149.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_158.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_160.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829153758943.mp4_163.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_2.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_5.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_8.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_14.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_18.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_23.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_27.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_29.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_30.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_40.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_49.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_50.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_53.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_60.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_61.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_71.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_78.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_85.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_96.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_106.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_110.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_114.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_117.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_119.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_124.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_132.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_135.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_143.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_158.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_179.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_180.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_183.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829155313476.mp4_191.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_6.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_11.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_12.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_14.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_16.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_17.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_20.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_21.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_25.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_26.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_34.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_36.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_37.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_41.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_47.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_48.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_55.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_61.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_62.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_70.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_75.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_83.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_90.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_93.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_94.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_99.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_102.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_107.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_113.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_134.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_141.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_143.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_145.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_154.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_159.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_163.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_164.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_168.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_170.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_173.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_181.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_187.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_189.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_190.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_204.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_210.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_216.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_217.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_218.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_220.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_236.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_239.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_253.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_256.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_258.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_260.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_268.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_272.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_274.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_279.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_282.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_290.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_297.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_301.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_306.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_1.mp4_308.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_2.mp4_1.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_2.mp4_2.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_2.mp4_11.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_2.mp4_16.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829160701219_2.mp4_33.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_6.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_10.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_11.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_17.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_18.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_23.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_30.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_35.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_38.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_45.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_48.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_52.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_66.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_69.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_71.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_75.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_77.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_80.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_85.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_99.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_101.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_102.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_107.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_108.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_109.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_131.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_134.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_139.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_140.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_149.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_151.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_159.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_167.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_168.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_175.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_178.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_183.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_187.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_198.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_204.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_206.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_207.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_209.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_210.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_220.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_235.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_236.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_237.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_246.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_247.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_248.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_250.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_259.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_267.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_269.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_272.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_275.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_279.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_280.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_300.jpg
+/root/autodl-tmp/VOC12BootTT/JPEGImages/20200829163250129_1.mp4_306.jpg
