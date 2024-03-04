@@ -4,7 +4,11 @@ import xml.etree.ElementTree as ET
 
 import numpy as np
 
-from utils.utils import get_classes
+def get_classes(classes_path):
+    with open(classes_path, encoding='utf-8') as f:
+        class_names = f.readlines()
+    class_names = [c.strip() for c in class_names]
+    return class_names, len(class_names)
 
 #--------------------------------------------------------------------------------------------------------------------------------#
 #   annotation_mode用于指定该文件运行时计算的内容
@@ -20,7 +24,7 @@ annotation_mode     = 0
 #   那么就是因为classes没有设定正确
 #   仅在annotation_mode为0和2的时候有效
 #-------------------------------------------------------------------#
-classes_path        = '/root/autodl-tmp/voc_classes.txt'
+classes_path        = '/root/autodl-tmp/BOOT8/VOC12BootTT/voc_classes.txt'
 #--------------------------------------------------------------------------------------------------------------------------------#
 #   trainval_percent用于指定(训练集+验证集)与测试集的比例，默认情况下 (训练集+验证集):测试集 = 9:1
 #   train_percent用于指定(训练集+验证集)中训练集与验证集的比例，默认情况下 训练集:验证集 = 9:1
@@ -32,7 +36,7 @@ train_percent       = 0.9
 #   指向VOC数据集所在的文件夹
 #   默认指向根目录下的VOC数据集
 #-------------------------------------------------------#
-VOCdevkit_path  = '/root/autodl-tmp/VOC12BootTT'
+VOCdevkit_path  = '/root/autodl-tmp/BOOT8/VOC12BootTT'
 
 VOCdevkit_sets  = ['train', 'val']
 classes, _      = get_classes(classes_path)
