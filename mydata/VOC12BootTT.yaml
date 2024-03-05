@@ -1,6 +1,6 @@
-train: "/home/lrx/project/boot8/mydata/train"
-val: "/home/lrx/project/boot8/mydata/val"
-test: "/home/lrx/project/boot8/mydata/test"
+train: "./train"
+val: "./val"
+test: "./test"
 
 # Classes
 names:
