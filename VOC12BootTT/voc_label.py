@@ -24,8 +24,8 @@ def convert(size, box):
 
 
 def convert_annotation(image_id):
-    in_file = open('/root/autodl-tmp/BOOT8/VOC12BootTT/Annotations/%s.xml' % (image_id), encoding='UTF-8')
-    out_file = open('data/mydata/labels/%s.txt' % (image_id), 'w')
+    in_file = open('/home/lrx/project/boot8/VOC12BootTT/Annotations/%s.xml' % (image_id), encoding='UTF-8')
+    out_file = open('/home/lrx/project/boot8/VOC12BootTT/labels/%s.txt' % (image_id), 'w')
     tree = ET.parse(in_file)
     root = tree.getroot()
     size = root.find('size')
@@ -33,7 +33,7 @@ def convert_annotation(image_id):
     h = int(size.find('height').text)
     for obj in root.iter('object'):
         # difficult = obj.find('difficult').text
-        difficult = obj.find('Difficult').text
+        difficult = str(0)
         cls = obj.find('name').text
         if cls not in classes or int(difficult) == 1:
             continue
@@ -54,11 +54,11 @@ def convert_annotation(image_id):
 
 wd = getcwd()
 for image_set in sets:
-    if not os.path.exists('data/mydata/labels/'):
-        os.makedirs('data/mydata/labels/')
-    image_ids = open('data/mydata/dataSet/%s.txt' % (image_set)).read().strip().split()
-    list_file = open('paper_data/%s.txt' % (image_set), 'w')
+    if not os.path.exists('/home/lrx/project/boot8/VOC12BootTT/labels'):
+        os.makedirs('/home/lrx/project/boot8/VOC12BootTT/labels')
+    image_ids = open('/home/lrx/project/boot8/VOC12BootTT/ImageSets/Main/%s.txt' % (image_set)).read().strip().split()
+    list_file = open('/home/lrx/project/boot8/VOC12BootTT/%s.txt' % (image_set), 'w')
     for image_id in image_ids:
-        list_file.write(abs_path + '/mydata/images/%s.jpg\n' % (image_id))
+        list_file.write(abs_path + '/VOC12BootTT/JPEGImages/%s.jpg\n' % (image_id))
         convert_annotation(image_id)
     list_file.close()

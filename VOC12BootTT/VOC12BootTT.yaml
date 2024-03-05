@@ -1,5 +1,6 @@
-train: "/root/autodl-tmp/BOOT8/VOC12BootTT/train.txt"
-val: "/root/autodl-tmp/BOOT8/VOC12BootTT/val.txt"
+train: "/home/lrx/project/boot8/VOC12BootTT/train.txt"
+val: "/home/lrx/project/boot8/VOC12BootTT/val.txt"
+test: "/home/lrx/project/boot8/VOC12BootTT/test.txt"
 
 # Classes
 names:
